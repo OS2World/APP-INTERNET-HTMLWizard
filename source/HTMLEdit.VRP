@@ -1,0 +1,19 @@
+VX-REXX OS/2 V2.14 Build B3
+VRX: MainWindow.VRX
+VRX: DelTemp.VRX
+VRX: WebLint.VRX
+VRX: WebLintL.VRX
+VRX: ReadUser.VRX
+MacroPath: VRM:D:\VXREXX\Source\HTMLEdit
+EXEPath: D:\VXREXX\Source\HTMLEdit\HTMLWiz.EXE
+RunParameters: 
+RunDirectory: D:\VXREXX\Source\HTMLEdit
+VRXWindow: __VREMainWindow,1,-23,-47,8239,12358
+VRXWindow: __VREFileListWindow,1,2951,7950,2349,2662
+VRXWindow: __VRESectionListWindow,1,5300,7950,2722,4396
+VRXWindow: __VREToolsWindow,1,807,10648,4480,1661
+VRXWindow: __VREWindListWindow,1,867,7950,2093,2650
+UserFile: 1
+UserWindow: MainWindow,1
+UserWindow: Images,1
+UserWindow: Anchors,1

@@ -1,0 +1,12 @@
+       OS/2 Upload Information Template for ftp-os2.nmsu.edu
+
+Archive Name: htmlwiz.zip
+Program Description: HTML Wizard v. 1.61, PM HTML Editor
+Operating System Versions: OS/2 2.x and higher
+Program Source: author
+Replaces: /os2/editors/htmlwiz.zip (version 1.60a)
+
+Your name: Dirk Terrell
+Your email address: terrell@gnv.fdt.net
+
+Proposed directory for placement: /os2/editors
